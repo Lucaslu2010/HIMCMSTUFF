@@ -1,0 +1,29 @@
+﻿类别,city,state,stadium,egrid_subregion,egrid_co2_kg_per_mwh,re_share_grid_1,water_risk_0to5,0,feb_temp_c,feb_precip_mm,pt_access_score_0to1,airport_hub_score_0to1,leed_level,iso20121,true_zerowaste
+已举办/确定未来举办,Inglewood,CA,SoFi Stadium,CAMX,269.365824,0.156263295,0.8,0,0,0,0.5,0.7,silver,0,0
+已举办/确定未来举办,Las Vegas,NV,Allegiant Stadium,AZNM,375.440184,0.108645199,0.1,0,0,0,0.5,0.7,gold,0,0
+已举办/确定未来举办,New Orleans,LA,Caesars Superdome,SRMV,520.714656,0.295168291,0.1,0,0,0,0.3,0.3,none,0,0
+已举办/确定未来举办,Glendale (Phoenix),AZ,State Farm Stadium,AZNM,435.959496,0.071007468,0.8,0,0,0,1,0.7,gold,0,0
+已举办/确定未来举办,Atlanta,GA,Mercedes-Benz Stadium,SRSO,564.555096,0.102684233,0.3,0,0,0,1,0.9,platinum,0,0
+历史主办城,Miami,FL,Hard Rock Stadium,FRCC,1304.75772,0.066555083,0.6,0,0,0,0.8,0.7,gold,0,0
+历史主办城,Houston,TX,NRG Stadium,ERCT,737.376696,0.055964633,0.3,0,0,0,1,0.7,none,0,0
+潜在新城市,Seattle,WA,Lumen Field,NWPP,1396.1808,0.228364635,0.15,0,0,0,1,0.7,none,0,0
+已举办/确定未来举办,Los Angeles,CA,Los Angeles Memorial Coliseum,CAMX,465.8472,0.156263295,0.6,0,0,0,0.5,0.7,gold,0,0
+已举办/确定未来举办,Indianapolis,IN,Lucas Oil Stadium,RFCW,583.3296,0.067647404,0.8,0,0,0,0.3,0.3,none,0,0
+已举办/确定未来举办,San Diego,CA,San Diego Stadium（现已拆除）,CAMX,328.855464,0.156263295,0.8,0,0,0,0.9,0.5,gold,0,0
+已举办/确定未来举办,Minneapolis,MN,U.S. Bank Stadium,MROW,557.0208,0.13253226,0.6,0,0,0,0.9,0.5,Platinum,0,0
+已举办/确定未来举办,Jacksonville,FL,Everbank Stadium,FRCC,301.566888,0.066555083,0.6,0,0,0,0.3,0.7,Platinum,0,0
+已举办/确定未来举办,Tampa,FL,Raymond James Stadium,FRCC,1072.764,0.066555083,0.6,0,0,0,0.9,0.5,none,0,0
+已举办/确定未来举办,Santa Clara,CA,Levi's Stadium,CAMX,793.16496,0.156263295,0.15,0,0,0,0.9,0.3,gold,0,0
+已举办/确定未来举办,Arlington,TX,AT&T Stadium,RFCE,527.940504,0.055964633,0.8,0,0,0,0.5,0.5,none,0,0
+已举办/确定未来举办,Detroit,MI,Ford Field,RFCM,660.346344,0.078051274,0.1,0,0,0,0.3,0.5,none,0,0
+已举办/确定未来举办,Stanford,CA,Stanford Stadium,CAMX,290.195136,0.156263295,0.1,0,0,0,0.9,0.3,none,0,0
+已举办/确定未来举办,Tempe,AZ,Sun Devil Stadium,AZNM,282.00312,0.071007468,0.8,0,0,0,1,0.7,gold,0,0
+未举办&有球队,Green Bay,WI,Lambeau Field,MROE,285.97212,0.091172564,0.1,0,0,0,0.3,0.3,none,0,0
+未举办&有球队,Buffalo,NY,Highmark Stadium,NYUP,543.61692,0.079429735,0.1,0,0,0,0.9,0.3,none,0,0
+未举办&有球队,Nashville,TN,Nissan Stadium,SRTV,267.320088,0.056219631,0.15,0,0,0,0.3,0.5,none,0,0
+未举办&有球队,Charlotte,NC,Bank of America Stadium,SRVC,703.674216,0.075541896,0.6,0,0,0,0.9,0.7,none,0,0
+未举办&有球队,Cincinnati,OH,Paycor Stadium,RFCW,834.832656,0.045278443,0.6,0,0,0,0.5,0.9,none,0,0
+未举办&有球队,Cleveland,OH,Ford Field,RFCW,1468.407528,0.045278443,0.15,0,0,0,0.3,0.9,none,0,0
+未举办&有球队,Kansas City,MO,GEHA Field at Arrowhead Stadium,SPNO,1160.481168,0.053745541,0.15,0,0,0,0.9,0.3,none,0,0
+未举办&有球队,Baltimore,MD,M&T Bank Stadium,RFCE,1211.878584,0.045408422,0.15,0,0,0,0.8,0.5,gold,0,0
+未举办&有球队,Philadelphia,PA,Lincoln Financial Field,RFCE,1130.539032,0.049341649,0.3,0,0,0,0.9,0.5,platinum,0,0

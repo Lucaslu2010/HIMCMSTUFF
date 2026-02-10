@@ -1,0 +1,109 @@
+"Notes","Month","Month Code",Deaths,Population,Crude Rate
+,"Jan., 2018","2018/01",88400,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02",72503,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03",77047,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04",71915,Not Applicable,Not Applicable
+,"May, 2018","2018/05",70352,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06",66871,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07",68050,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08",67333,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09",65407,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10",71078,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11",72229,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12",77477,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01",80196,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02",72391,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03",79033,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04",72627,Not Applicable,Not Applicable
+,"May, 2019","2019/05",72731,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06",68381,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07",69406,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08",68304,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09",66931,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10",71902,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11",73464,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12",79247,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01",81030,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02",75127,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03",79696,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04",82035,Not Applicable,Not Applicable
+,"May, 2020","2020/05",74941,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06",71180,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07",75879,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08",75044,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09",72164,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10",76303,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11",78008,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12",87334,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01",87254,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02",75188,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03",77452,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04",73819,Not Applicable,Not Applicable
+,"May, 2021","2021/05",74198,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06",71543,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07",74032,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08",77671,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09",75790,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10",78796,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11",79391,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12",86444,Not Applicable,Not Applicable
+,"Jan., 2022","2022/01",95153,Not Applicable,Not Applicable
+,"Feb., 2022","2022/02",77987,Not Applicable,Not Applicable
+,"Mar., 2022","2022/03",78809,Not Applicable,Not Applicable
+,"Apr., 2022","2022/04",74231,Not Applicable,Not Applicable
+,"May, 2022","2022/05",75322,Not Applicable,Not Applicable
+,"Jun., 2022","2022/06",72518,Not Applicable,Not Applicable
+,"Jul., 2022","2022/07",75461,Not Applicable,Not Applicable
+,"Aug., 2022","2022/08",74493,Not Applicable,Not Applicable
+,"Sep., 2022","2022/09",72545,Not Applicable,Not Applicable
+,"Oct., 2022","2022/10",77327,Not Applicable,Not Applicable
+,"Nov., 2022","2022/11",79130,Not Applicable,Not Applicable
+,"Dec., 2022","2022/12",88676,Not Applicable,Not Applicable
+,"Jan., 2023 ","2023/01",84949,Not Applicable,Not Applicable
+,"Feb., 2023 ","2023/02",74329,Not Applicable,Not Applicable
+,"Mar., 2023 ","2023/03",80616,Not Applicable,Not Applicable
+,"Apr., 2023 ","2023/04",75325,Not Applicable,Not Applicable
+,"May, 2023 ","2023/05",75083,Not Applicable,Not Applicable
+,"Jun., 2023 ","2023/06",71267,Not Applicable,Not Applicable
+,"Jul., 2023 ","2023/07",72413,Not Applicable,Not Applicable
+,"Aug., 2023 ","2023/08",73223,Not Applicable,Not Applicable
+,"Sep., 2023 ","2023/09",70948,Not Applicable,Not Applicable
+,"Oct., 2023 ","2023/10",75884,Not Applicable,Not Applicable
+,"Nov., 2023 ","2023/11",76844,Not Applicable,Not Applicable
+,"Dec., 2023 ","2023/12",85092,Not Applicable,Not Applicable
+"Total",,,5461219,Not Applicable,Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 2018-2023, Single Race"
+"Query Parameters:"
+"ICD-10 Codes: I00-I99 (Diseases of the circulatory system)"
+"Group By: Month"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd-expanded.html for more information."
+"---"
+"Query Date: Feb 2, 2026 1:17:40 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 2018-2023 on CDC WONDER Online Database, released in 2024. Data are from the Multiple Cause of Death Files,"
+"2018-2023, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10-expanded.html on Feb 2, 2026 1:17:40 AM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Education, Industry, Usual Occupation,"
+"Weekday or Month are grouped by or limited, due to lack of a valid population. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#NotApplicableRates."
+"2. Connecticut population estimates for 2022 and later years are reported for 9 planning regions as county equivalent areas,"
+"instead of the former 8 legacy counties in the Vintage 2022 postcensal series released by the Census Bureau on June 22, 2023,"
+"and in the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. Populations estimates for the former"
+"counties are not available for 2022 and later years. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Connecticut-2022."
+"3. After the creation of the final 2023 dataset, North Carolina updated the cause of death information for over 900 death"
+"certificates to include a cause of death code indicating drug overdose (ICD-10 underlying cause-of-death codes: X40-X44,"
+"X60-X64, X85, and Y10-Y14). Jurisdictions can continue to update death certificates after the closing of the mortality file. As"
+"a result, users should consider that the actual death count for drug overdose deaths for North Carolina in 2023 is over 4,400"
+"deaths, with a crude rate of approximately 41.0 per 100,000 population, and an age-adjusted rate of approximately 42.1 per"
+"100,000 population. These deaths will not be updated on the final mortality datasets."
